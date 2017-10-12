@@ -1,7 +1,7 @@
 <?php
 
 class Security_Checksum_Check {
-	const url = 'http://wpcentral.io/api/checksums/';
+	const url = 'https://wpcentral.io/api/checksums/';
 
 	private $root_path;
 	private $object_results = array(
